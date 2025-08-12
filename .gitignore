@@ -4,3 +4,6 @@ share/static/fonts/
 data/
 log/
 .idea/
+*.swp
+*.mmdb
+*.dat
